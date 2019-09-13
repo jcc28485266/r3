@@ -18,6 +18,8 @@ export default {
 </script>
 
 <style>
+  @import "assets/css/common.css";
+  @import "assets/iconfont/iconfont.css";
 #app {
 
 }
